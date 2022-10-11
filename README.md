@@ -1,6 +1,6 @@
 # Loan-Approval-Classification-with-imbalanced-data
 
-##About Dataset
+## About Dataset
 
 Should This Loan be Approved or Denied?
 
@@ -8,11 +8,12 @@ The Small Business Administration (SBA) was founded in 1953 to assist small busi
 
 There have been several small business success stories like FedEx and Apple. However, the rate of default is very high. Many economists believe the banking market works better without the assistance of the SBA. Supporter claim that the social benefits and job creation outweigh any financial costs to the government in defaulted loans.
 
-##The Data Set
+## The Data Set
 
-The original data set is from the U.S.SBA loan database, which includes historical data from 1987 through 2014 (899,164 observations) with 27 variables. The data set includes information on whether the loan was paid off in full or if the SMA had to charge off any amount and how much that amount was. The data set used is a subset of the original set. It contains loans about the Real Estate and Rental and Leasing industry in California. This file has 2,102 observations and 35 variables. The column Default is an integer of 1 or zero, and I had to change this column to a factor.
+The original data set is from the U.S.SBA loan database, which includes historical data from 1987 through 2014 (899,164 observations) with 27 variables. The data set includes information on whether the loan was paid off in full or if the SMA had to charge off any amount and how much that amount was. The data set used is a subset of the original set. It contains loans about the Real Estate and Rental and Leasing industry in California. This file has approximately one million observations and 35 variables. The column Default is 'MIS_Status'.
 
 For more information on this data set go to https://amstat.tandfonline.com/doi/full/10.1080/10691898.2018.1434342
+Note that I have not used this dataset but the original dataset for this project.
 
 ## Project Description
 I have done two seperate modeling of the project. Below are the descriptions of both works.

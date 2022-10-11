@@ -10,10 +10,9 @@ There have been several small business success stories like FedEx and Apple. How
 
 ## The Data Set
 
-The original data set is from the U.S.SBA loan database, which includes historical data from 1987 through 2014 (899,164 observations) with 27 variables. The data set includes information on whether the loan was paid off in full or if the SMA had to charge off any amount and how much that amount was. The data set used is a subset of the original set. It contains loans about the Real Estate and Rental and Leasing industry in California. This file has approximately one million observations and 35 variables. The column Default is 'MIS_Status'.
+The original data set is from the U.S.SBA loan database, which includes historical data from 1987 through 2014 (899,164 observations) with 27 variables. The data set includes information on whether the loan was paid off in full or if the SMA had to charge off any amount and how much that amount was. 
 
 For more information on this data set go to https://amstat.tandfonline.com/doi/full/10.1080/10691898.2018.1434342
-Note that I have not used this dataset but the original dataset for this project.
 
 ## Project Description
 I have done two seperate modeling of the project. Below are the descriptions of both works.

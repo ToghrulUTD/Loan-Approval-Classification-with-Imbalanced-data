@@ -67,4 +67,4 @@ In this project, we are not using the "Term" feature which is the most important
 
  Deliverables are the same as the deliverables of the first model.
 
-Overall Performance: F1 score of 0.95.
+Overall Performance: F1 score of 0.95 (0.1 imporvement from the baseline models).

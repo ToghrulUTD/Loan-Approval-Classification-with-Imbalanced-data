@@ -52,7 +52,7 @@ The notebook includes explanations about the code and is designed to be easily f
 
 ### Final Model with Ensenble Learning
 
-In this project, we are not using the "Term" feature which is the most important feature based on the initial analysis with simpler models. The reason is to avoid the model to be more dependent on this feature and not learn the others. I will add the "Term" feature at the end to find the overall progress with and without this feature. The notebook includes the following tasks.
+Here, we are not using the "Term" feature which is the most important feature based on the initial analysis with simpler models. The reason is to avoid the model to be more dependent on this feature and not learn the others. I will add the "Term" feature at the end to find the overall progress with and without this feature. The notebook includes the following tasks.
 
 - Clean up the data:
     - Encode replace missing values
